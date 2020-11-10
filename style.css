@@ -117,7 +117,7 @@ main section#first div.image img:after {
     position: absolute;
     background: red;
     max-width: 100%;
-    /* background-image: url('./images/image-mockups.png'); */
+    background-image: url('./images/image-mockups.png');
 }
 main section#first, main section#third {
     background-color: var(--VeryLightGray);
